@@ -2,7 +2,7 @@ Please donate project:
 
 Paypal SLGPC.sec@gmail.com
 
-Crypto Wallet Etherium: 
+Crypto Wallet Ethereum: 
 0x58b36a7B8C794E899264e55c8a1a6adC5Faf2D78
 USDT Erc20: 
 0x58b36a7B8C794E899264e55c8a1a6adC5Faf2D78
