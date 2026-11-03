@@ -3,16 +3,17 @@ Please donate project:
 Paypal SLGPC.sec@gmail.com
 
 Crypto Wallet Ethereum: 
-0x439eF98236821d7CbB92bE679B0970c99C9429Bb
+
+0x6176e91b6511f2690461d34de746913e2728451f
 
 Tron TRX: 
-TG64VgzdPpyKYNpiSaTUmbvhtnXdUwS1Jq
+TTKccWwswwHKQHqUCUdn9XSaxWEGankcYq
 
 USDT Trc20: 
-TG64VgzdPpyKYNpiSaTUmbvhtnXdUwS1Jq
+TTKccWwswwHKQHqUCUdn9XSaxWEGankcYq
 
 Bitcoin: 
-bc1q3azlawjj09jaqnu2sntvzwgg49m5x68pmqy30y
+164ryq5PbcfCcvU73iwYwnUCYpiHchrMaz
 
 
 A **Snort 3 logger plugin** that serializes IDS/IPS alert events to JSON and
