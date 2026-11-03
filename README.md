@@ -185,6 +185,8 @@ ORDER BY ports_touched DESC;
 ```
 
 ---
+heavydb_replay.cpp
+This is an enhancement. In the event that loading alerts into HeavyDB fails, it should be possible to load a portion of the log text into the system instead. Once I get around to testing all of this...
 
 ## File layout
 
